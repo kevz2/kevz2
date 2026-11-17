@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin. Nice to meet you! 👋
 
-I'm a computer science student and an undergraduate teaching assistant!
+I studied computer science for my second degree and just recently graduated!
 
 - 🌱 I’m currently learning many things about computer science (C++, C etc)!
 - 👯 I’m looking to collaborate with other software engineers!
